@@ -1,6 +1,6 @@
 ## Hi, I’m Levente Tallos
 
-🎓 **Applied Mathematics Major** 
+🎓 **Applied Mathematics Major**   
 🏫 Wayne State College, Wayne, NE
 <!--
 
