@@ -4,11 +4,11 @@
 🏀 **College Basketball Player**  
 🏫 Wayne State College, Wayne, NE  
 
-<hr style="height: 5px; border: 0;">. 
+<hr style="height: 5px; border: 0;">
 
 🚀 **Who I Am**   
 
-I am an **Applied Mathematics Major** at Wayne State College. Developing skills in **mathematics, programming, statistics, and business. Student-athlete** with a background in competitive basketball, **bringing discipline, teamwork, and a strong work ethic.**
+I am an **Applied Mathematics Major** at Wayne State College. Developing skills in **mathematics, programming, statistics, and business.** I am also a **student-athlete** with a background in competitive basketball, **bringing discipline, teamwork, and a strong work ethic.**
 <!--
 
 **talloslevi/talloslevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
