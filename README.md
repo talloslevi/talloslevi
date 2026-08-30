@@ -2,7 +2,9 @@
 
 🎓 **Applied Mathematics Major**   
 🏀 **College Basketball Player**  
-🏫 Wayne State College, Wayne, NE
+🏫 Wayne State College, Wayne, NE  
+
+—— 
 <!--
 
 **talloslevi/talloslevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
