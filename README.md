@@ -1,6 +1,7 @@
 ## Hi, I’m Levente Tallos
 
 🎓 **Applied Mathematics Major**   
+🏀 **College Basketball PLayer**
 🏫 Wayne State College, Wayne, NE
 <!--
 
