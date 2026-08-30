@@ -6,7 +6,7 @@
 
 <hr style="height: 5px; border: 0;">
 
-🚀 **Who I Am**   
+# 🚀 **Who I Am**   
 
 I am an **Applied Mathematics Major** at Wayne State College. Developing skills in **mathematics, programming, statistics, and business.** I am also a **student-athlete** with a background in competitive basketball, **bringing discipline, teamwork, and a strong work ethic.**
 <!--
