@@ -4,7 +4,7 @@
 🏀 **College Basketball Player**  
 🏫 Wayne State College, Wayne, NE  
 
-—-
+<hr style="height: 5px; border: 0;">
 <!--
 
 **talloslevi/talloslevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
