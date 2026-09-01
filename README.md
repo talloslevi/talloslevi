@@ -27,7 +27,6 @@ I am an **Applied Mathematics Major** at Wayne State College. Developing skills 
 - 📊 Data Science & Analytics
 - 📈 Statistics & Predictive Modeling
 - 💰 Financial Modeling
-- 🤖 Machine Learning & AI
 - 🏀 Sports Analytics
 
 <!--
