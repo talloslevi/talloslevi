@@ -17,7 +17,19 @@ I am an **Applied Mathematics Major** at Wayne State College. Developing skills 
 - Programming Fundamentals
 - C++
 - Applied Mathematics
-- Business 
+- Business
+
+<hr style="height: 5px; border: 0;">   
+
+## 🧠 Areas of Interest
+
+- 📐 Applied Mathematics
+- 📊 Data Science & Analytics
+- 📈 Statistics & Predictive Modeling
+- 💰 Financial Modeling
+- 🤖 Machine Learning & AI
+- 🏀 Sports Analytics
+
 <!--
 
 **talloslevi/talloslevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
