@@ -21,7 +21,7 @@ I am an **Applied Mathematics Major** at Wayne State College. Developing skills 
 
 <hr style="height: 5px; border: 0;">   
 
-## 🧠 Areas of Interest
+## 🧠 Areas of Interest  
 
 - 📐 Applied Mathematics
 - 📊 Data Science & Analytics
