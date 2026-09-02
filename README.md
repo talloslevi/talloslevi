@@ -10,7 +10,17 @@
 
 I am an **Applied Mathematics Major** at Wayne State College. Developing skills in **mathematics, programming, statistics, and business.** I am also a **student-athlete** with a background in competitive basketball, **bringing discipline, teamwork, and a strong work ethic.**.  
 
-<hr style="height: 5px; border: 0;">   
+<hr style="height: 5px; border: 0;">      
+
+### 🏀 Basketball
+
+I've been playing basketball since I was 6 years old and currently compete at the collegiate level.
+
+Basketball has taught me the importance of **discipline, teamwork, consistency, and problem-solving** — qualities I also bring to my academic and programming work.
+
+I'm particularly interested in exploring how **data, statistics, and mathematics can be applied to basketball and sports performance.**    
+
+<hr style="height: 5px; border: 0;"> 
 
 ### 🔧 **Currently Learning**  
 
