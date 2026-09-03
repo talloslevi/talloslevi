@@ -20,7 +20,22 @@ Basketball has taught me the importance of **discipline, teamwork, consistency, 
 
 I'm particularly interested in exploring how **data, statistics, and mathematics can be applied to basketball and sports performance.**    
 
-<hr style="height: 5px; border: 0;"> 
+<hr style="height: 5px; border: 0;">    
+
+### 💡 Skills
+
+- 🧩 Problem Solving
+- 📐 Mathematical Reasoning
+- 🔢 Quantitative Analysis
+- 🧠 Critical Thinking
+- 📊 Analytical Thinking
+- 🤝 Teamwork & Collaboration
+- ⏱️ Time Management
+- 🎯 Goal Setting
+- 💬 Communication
+- 🏀 Leadership & Team Discipline
+
+<hr style="height: 5px; border: 0;">
 
 ### 🔧 **Currently Learning**  
 
