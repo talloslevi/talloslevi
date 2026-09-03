@@ -52,7 +52,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">    
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/levente-tallos/">
