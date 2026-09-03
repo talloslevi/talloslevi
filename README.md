@@ -25,10 +25,8 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 ### 💡 Current Skills
 
 - 🧩 Problem Solving
-- 📐 Mathematical Reasoning
-- 🔢 Quantitative Analysis
+- 🔢 Statistics
 - 🧠 Critical Thinking
-- 📊 Analytical Thinking
 - 🤝 Teamwork & Collaboration
 - 💬 Communication
 - 🏀 Leadership & Team Discipline
