@@ -18,7 +18,17 @@ I've been playing basketball since I was 6 years old and currently compete at th
 
 Basketball has taught me the importance of **discipline, teamwork, consistency, and problem-solving** — qualities I also bring to my academic and programming work.
 
-I'm particularly interested in exploring how **data, statistics, and mathematics can be applied to basketball and sports performance.**    
+I'm particularly interested in exploring how **data, statistics, and mathematics can be applied to basketball and sports performance.**  
+
+<hr style="height: 5px; border: 0;">   
+
+### 🧠 Areas of Interest  
+
+- 📐 Applied Mathematics
+- 📊 Data Science & Analytics
+- 📈 Statistics & Predictive Modeling
+- 💰 Financial Modeling
+- 🏀 Sports Analytics
 
 <hr style="height: 5px; border: 0;">    
 
@@ -40,15 +50,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 - Applied Mathematics
 - Business
 
-<hr style="height: 5px; border: 0;">   
 
-### 🧠 Areas of Interest  
-
-- 📐 Applied Mathematics
-- 📊 Data Science & Analytics
-- 📈 Statistics & Predictive Modeling
-- 💰 Financial Modeling
-- 🏀 Sports Analytics
 
 <!--
 
