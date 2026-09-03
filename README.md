@@ -6,13 +6,13 @@
 
 <hr style="height: 5px; border: 0;">
 
-### 🚀 **Who I Am**   
+## 🚀 **Who I Am**   
 
 I am an **Applied Mathematics Major** at Wayne State College. Developing skills in **mathematics, programming, statistics, and business.** I am also a **student-athlete** with a background in competitive basketball, **bringing discipline, teamwork, and a strong work ethic.**.  
 
 <hr style="height: 5px; border: 0;">      
 
-### 🏀 Basketball
+## 🏀 Basketball
 
 I've been playing basketball since I was 6 years old and currently compete at the collegiate level.
 
@@ -22,7 +22,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">   
 
-### 🧠 Areas of Interest  
+## 🧠 Areas of Interest  
 
 - 📐 Applied Mathematics
 - 📊 Data Science & Analytics
@@ -32,7 +32,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">    
 
-### 💡 Current Skills
+## 💡 Current Skills
 
 - 🧩 Problem Solving
 - 🔢 Statistics
@@ -43,7 +43,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">
 
-### 🔧 **Currently Learning**  
+## 🔧 **Currently Learning**  
 
 - Programming Fundamentals
 - C++
@@ -52,7 +52,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">    
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/levente-tallos/">
