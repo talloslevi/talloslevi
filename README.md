@@ -22,7 +22,7 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 
 <hr style="height: 5px; border: 0;">    
 
-### 💡 Skills
+### 💡 Current Skills
 
 - 🧩 Problem Solving
 - 📐 Mathematical Reasoning
@@ -30,8 +30,6 @@ I'm particularly interested in exploring how **data, statistics, and mathematics
 - 🧠 Critical Thinking
 - 📊 Analytical Thinking
 - 🤝 Teamwork & Collaboration
-- ⏱️ Time Management
-- 🎯 Goal Setting
 - 💬 Communication
 - 🏀 Leadership & Team Discipline
 
